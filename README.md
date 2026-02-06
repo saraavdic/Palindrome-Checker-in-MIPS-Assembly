@@ -10,12 +10,6 @@ A MIPS Assembly program that checks whether a given string is a palindrome. The 
 -  Reusable session loop (continue checking until user exits)
 -  Handles strings up to 100 characters
 
-##  File Structure
-project/
-├── palindrome_checker.asm # Main MIPS Assembly source code
-├── README.md # This file
-└── documentation.docx # Full project report (optional)
-
 ##  Requirements
 - **QTSpim Simulator** (MIPS32 simulator)
 - Basic understanding of MIPS assembly (for modification/debugging)
