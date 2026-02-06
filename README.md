@@ -27,7 +27,7 @@ A MIPS Assembly program that checks whether a given string is a palindrome. The 
 - **`is_palindrome` function**: Core palindrome-checking logic with pointer comparison
 - **Main loop**: Handles repeated user input and session management
 - 
-## 🧠Key Concepts Demonstrated
+## Key Concepts Demonstrated
 - MIPS memory access (`lb`, `sb`)
 - Register usage and stack management
 - Loops and conditional branching (`beq`, `bne`, `blt`)
@@ -40,7 +40,7 @@ A MIPS Assembly program that checks whether a given string is a palindrome. The 
 - Sara Avdić   
 - Date: April 11, 2025
 
-## 📚 References
+##  References
 - MIPS Assembly Guide (TutorialsPoint)
 - QTSpim Simulator Documentation
 - Academic sources on palindromes and low-level programming
