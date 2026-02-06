@@ -16,7 +16,7 @@ A MIPS Assembly program that checks whether a given string is a palindrome. The 
 
 ##  How to Run
 1. Open **QTSpim**
-2. Load the file: `File → Load File` → select `palindrome_checker.asm`
+2. Load the file: `File → Load File` → select `palindrome.asm`
 3. Run the program: `Simulator → Run / Continue`
 4. Follow the console prompts:
    - Enter a string to check
