@@ -52,6 +52,3 @@ project/
 - Academic sources on palindromes and low-level programming
 
 
-- **Buffer clearing**: Ensures clean state between checks
-
-## 📊 Example Output
